@@ -32,4 +32,4 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 
 1. Clone this repository or download the ZIP:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/huntersourasis/Tic-Tac-Toe.git
